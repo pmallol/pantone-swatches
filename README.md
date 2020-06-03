@@ -1,4 +1,5 @@
-# pantone-swatches
+# Pantone Swatches
+Experience the vastness of Pantone colors to find a perfect match for you!
 
 ## Project setup
 ```
