@@ -1,6 +1,8 @@
 # Pantone Swatches
 Experience the vastness of Pantone colors to find a perfect match for you!
 
+![](/public/screenshot2.png)
+
 ## Project setup
 ```
 npm install
