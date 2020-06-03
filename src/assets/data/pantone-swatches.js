@@ -1,4 +1,4 @@
-var pantone = [
+export const pantone = [
   {id: "100", rgb: "244, 237, 124", color: "#F4ED7C"},
   {id: "101", rgb: "244, 237, 71", color: "#F4ED47"},
   {id: "102", rgb: "249, 232, 20", color: "#F9E814"},
