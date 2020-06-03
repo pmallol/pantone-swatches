@@ -38,6 +38,7 @@
 header {
   padding: 3rem 0;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-end;
 }
@@ -66,12 +67,19 @@ header h1 span {
   font-weight: normal;
 }
 
+#nav {
+  margin-top: 2rem;
+  display: flex;
+}
+
 #nav a {
   font-weight: bold;
   color: #444444;
   text-decoration: none;
   margin: 0 1rem;
 }
+
+#nav a:first-child { margin-left: 0 }
 
 main {
   min-height: calc(100vh - 23rem);
